@@ -1,6 +1,6 @@
 # Tugas Besar Pemrograman Berorientasi Objek
  
-## Nama dan NIM Anggota Kelompok 👯
+## Nama dan NIM Anggota Kelompok
 
 | Nama                          | NIM       |
 | ----------------------------- | --------- |
