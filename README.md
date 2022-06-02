@@ -1,6 +1,19 @@
 # Tugas Besar Pemrograman Berorientasi Objek
 
-Ilham Fadhlur Rahman - 120140125 - Pemrograman Berorientasi Objek RA
+Ilham Fadhlur Rahman - 120140125 
+
+## Nama dan NIM Anggota Kelompok 👯
+
+| Nama                          | NIM       |
+| ----------------------------- | --------- |
+| Ilham Fadhlur Rahman          | 120140125 |
+| Ahmad Advissalam Pakaya       | 120140126 |
+| Alga Fiky                     | 120140121 |
+| Nadhea Deni Putri             | 120140128 |
+| Ichza Auliya Gumilar          | 120140188 |
+| Alvian Manshurin              | 120140162 |
+
+
 
 ## Purpose
 Tujuan dari pembuatan game kali ini adalah untuk memenuhi **Tugas Besar Pemrograman Berorientasi Objek ITERA 2022**.
