@@ -1,7 +1,5 @@
 # Tugas Besar Pemrograman Berorientasi Objek
-
-Ilham Fadhlur Rahman - 120140125 
-
+ 
 ## Nama dan NIM Anggota Kelompok 👯
 
 | Nama                          | NIM       |
